@@ -1,6 +1,6 @@
 # National Cipher Challenge2025
 
-Open this [pdf|https://github.com/AM1NOM/NCC2025/edit/main/README.md] to learn how we did this challenge.
+Open this [pdf](solution.pdf) to learn how we did this challenge.
 
 At the start, we didn’t know how the cards were arranged in the missing squares, and we
 also didn’t know the key grids needed to decrypt the message. Since there are far too
